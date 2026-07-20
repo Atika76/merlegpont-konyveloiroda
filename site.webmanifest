@@ -1,20 +1,26 @@
 {
   "name": "MérlegPont Könyvelőiroda",
   "short_name": "MérlegPont",
+  "id": "./",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#071d36",
   "theme_color": "#0c2f5c",
+  "lang": "hu-HU",
+  "description": "A MérlegPont Könyvelőiroda bemutató ügyfélsegítő weboldala.",
   "icons": [
     {
       "src": "assets/icons/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "assets/icons/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }

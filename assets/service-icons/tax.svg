@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Adóbevallás">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#25c9dc"/><stop offset="1" stop-color="#86d84f"/></linearGradient></defs>
+<rect width="24" height="24" rx="6" fill="#0b2a4e"/><path d="M5 3h10l4 4v14H5z M14 3v5h5 M8 12h8 M8 16h6" fill="none" stroke="url(#g)" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/></svg>

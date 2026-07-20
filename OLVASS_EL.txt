@@ -1,13 +1,25 @@
-MÉRLEGPONT KÖNYVELŐIRODA – TELJES WEBOLDAL
+MÉRLEGPONT KÖNYVELŐIRODA – V3 TELJES WEBOLDAL
 
-Használat:
+HELYI MEGNYITÁS:
 1. Csomagold ki a ZIP-fájlt.
 2. Nyisd meg az index.html fájlt.
-3. A menüpontokkal az összes oldal megnyitható.
-4. A böngésző fülén a földgömb helyett a saját logó jelenik meg.
-5. Telefonra mentéshez az oldal tartalmaz apple-touch-icon és webmanifest fájlokat is.
+3. A legtöbb funkció azonnal működik.
 
-Fontos:
-- Az oldal internet nélkül is megnyitható.
-- Az űrlap bemutató jellegű, helyben ment adatot.
-- A dokumentumlista interaktív, a jelölések ugyanabban a böngészőben megmaradnak.
+GITHUB PAGES:
+1. A ZIP teljes kicsomagolt tartalmát töltsd fel a repository fő mappájába.
+2. Settings → Pages → Deploy from a branch.
+3. Branch: main, mappa: /(root), majd Save.
+4. A megosztható cím: https://FELHASZNALONEV.github.io/REPOSITORY-NEVE/
+
+ELLENŐRIZVE:
+- relatív fájlhivatkozások
+- minden menüpont
+- mobilos hamburger menü
+- favicon és telefonos ikon
+- webmanifest
+- service worker és offline gyorsítótár
+- interaktív dokumentumlista
+- bemutató kapcsolatfelvételi űrlap
+
+FONTOS:
+A név, cím, telefon, e-mail, csomagok és árak fiktív bemutató adatok. Az oldal nem nyújt adó- vagy jogi tanácsadást.
