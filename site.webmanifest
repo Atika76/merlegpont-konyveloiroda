@@ -1,5 +1,5 @@
 {
-  "name": "MérlegPont Könyvelőiroda",
+  "name": "MérlegPont bemutató ügyfélsegítő",
   "short_name": "MérlegPont",
   "id": "./",
   "start_url": "./index.html",
@@ -8,7 +8,7 @@
   "background_color": "#071d36",
   "theme_color": "#0c2f5c",
   "lang": "hu-HU",
-  "description": "A MérlegPont Könyvelőiroda bemutató ügyfélsegítő weboldala.",
+  "description": "Nyilvánosan kipróbálható, adatküldés nélküli bemutató ügyfélsegítő webalkalmazás.",
   "icons": [
     {
       "src": "assets/icons/icon-192.png",

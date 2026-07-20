@@ -1,25 +1,36 @@
-MÉRLEGPONT KÖNYVELŐIRODA – V3 TELJES WEBOLDAL
+MÉRLEGPONT – BEMUTATÓ ÜGYFÉLSEGÍTŐ WEBALKALMAZÁS
+
+CÉL:
+Nyilvánosan megosztható, biztonságosan kipróbálható bemutató alkalmazás.
+Nem valódi könyvelőiroda és nem ügyfélportál.
 
 HELYI MEGNYITÁS:
-1. Csomagold ki a ZIP-fájlt.
+1. Csomagold ki a teljes mappát.
 2. Nyisd meg az index.html fájlt.
-3. A legtöbb funkció azonnal működik.
+3. A vállalkozásforma-választó, a pipák mentése és a TXT-letöltés szerver nélkül is működik.
 
 GITHUB PAGES:
-1. A ZIP teljes kicsomagolt tartalmát töltsd fel a repository fő mappájába.
+1. Töltsd fel a mappa teljes tartalmát egy GitHub repository fő mappájába.
 2. Settings → Pages → Deploy from a branch.
 3. Branch: main, mappa: /(root), majd Save.
 4. A megosztható cím: https://FELHASZNALONEV.github.io/REPOSITORY-NEVE/
 
-ELLENŐRIZVE:
-- relatív fájlhivatkozások
-- minden menüpont
-- mobilos hamburger menü
-- favicon és telefonos ikon
-- webmanifest
-- service worker és offline gyorsítótár
-- interaktív dokumentumlista
-- bemutató kapcsolatfelvételi űrlap
+FUNKCIÓK:
+- professzionális, mobilbarát bemutatóoldal
+- könyvelési szolgáltatások és fiktív mintacsomagok
+- 4 választható vállalkozási forma
+- választás alapján változó havi dokumentumlista
+- készültségi százalék
+- jelölések helyi mentése localStorage-ban
+- TXT-lista letöltése
+- GYIK, webmanifest, ikonok és offline gyorsítótár
+
+BIZTONSÁG:
+- nincs regisztráció, bejelentkezés vagy adatbázis
+- nincs dokumentumfeltöltés vagy kapcsolatfelvételi űrlap
+- nincs szerverre történő adatküldés
+- az alkalmazás nem kér személyes vagy érzékeny adatot
+- csak a választott mintatípus és a pipák állapota marad a böngészőben
 
 FONTOS:
-A név, cím, telefon, e-mail, csomagok és árak fiktív bemutató adatok. Az oldal nem nyújt adó- vagy jogi tanácsadást.
+Ez egy bemutató ügyfélsegítő alkalmazás. Nem minősül könyvelési, adózási vagy jogi tanácsadásnak. Valós vagy érzékeny adatot ne adj meg.
