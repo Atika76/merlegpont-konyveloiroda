@@ -1,0 +1,13 @@
+MÉRLEGPONT KÖNYVELŐIRODA – TELJES WEBOLDAL
+
+Használat:
+1. Csomagold ki a ZIP-fájlt.
+2. Nyisd meg az index.html fájlt.
+3. A menüpontokkal az összes oldal megnyitható.
+4. A böngésző fülén a földgömb helyett a saját logó jelenik meg.
+5. Telefonra mentéshez az oldal tartalmaz apple-touch-icon és webmanifest fájlokat is.
+
+Fontos:
+- Az oldal internet nélkül is megnyitható.
+- Az űrlap bemutató jellegű, helyben ment adatot.
+- A dokumentumlista interaktív, a jelölések ugyanabban a böngészőben megmaradnak.
